@@ -1,0 +1,7 @@
+This is just a keylogger application where I tried to learn how key logger works. 
+
+Please dont use this code for any illegal activity. 
+
+If you use this code for any such activities it will be completely your own responsibility.
+
+I will not be responsible for your illegal actions.
